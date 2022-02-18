@@ -1,5 +1,5 @@
 
- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ali <b>Shahzanaeer Ahmed</b></h1>
+ <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ali <b>Shahzaneer Ahmed</b></h1>
  <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=GDSC%20Content%20Lead;Flutter%20Isb%20Core%20Team%20Member%20;%20CS%20Sophomore;Self-taught%20Programmer;&font=Fira%20Code&center=true&width=440&height=45&color=1572B6&vCenter=true&size=22"></a>
 </p>
