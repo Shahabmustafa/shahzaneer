@@ -79,7 +79,7 @@
 <br/>
 
 #
-## Contribution Graph
+## 📈 Contribution Graph
 
 [![Shahzaneer Ahmed's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahism&theme=xcode)](https://github.com/shahism)
 
