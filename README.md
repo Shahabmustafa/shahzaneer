@@ -6,13 +6,12 @@
  
  ## 🙋‍♂️ About Me
 
-- 🎓 I'm **CS** Sophomore at <a href="https://comsats.edu.pk/" >COMSATS Institute Of Information and Technology.</a>
-- 🌱 I'm currently learning <b> Data Structures, Machine Learning, Flutter, Dart and UI/UX design.</b>
-- 👯 I’m looking to collaborate with **Open-Source Projects.**
-- 📫 Reach out to me @ **shahism01@gmail.com**.
-- ⚡ **Fun fact:** I love journalism and like to discuss Cricket.
+- 🎓 I'm **CS** sophomore at <a href="https://comsats.edu.pk/" >COMSATS University Islamabad.</a>
+- 🌱 I'm currently learning <b>Data Structures,Machine Learning,Flutter,Dart and UI/UX design.</b>
+- 👯 I’m looking to collaborate with any **Open-Source Projects.**
+- 📫 How to reach me **shahism01@gmail.com**.
+- ⚡ **Fun fact:** I love journalism and like to discuss about Cricket.
  
- ## Connect with me:
 <p align="left">
 
 <a href = "https://www.facebook.com/shahzaneerahmed"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
@@ -21,6 +20,29 @@
 <a href = "https://twitter.com/shahism__"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
+
+<!--Social Media Links!-->
+ ## Connect with me:
+
+<a href="https://www.instagram.com/shahism._/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/shahism/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://wa.me/93064650353">
+    <img src="https://img.shields.io/badge/Whatsapp-27e650c4?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://twitter.com/shahism__">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/14871627/shahzaneer-ahmed">
+    <img src="https://img.shields.io/badge/Stack_Overfolow-000000?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/shahzaneerahmed">
+    <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+</div>  <br> <br>
 
 #
  ## 🚀 Languages and Frameworks
@@ -41,20 +63,18 @@
 <a href="#">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a> &emsp;
-<a href="#">
-    <img alt="Python" src="https://img.shields.io/badge/Python-61DBFB?style=for-the-badge&logo=Python&logoColor=white"/>
-  </a> &emsp;
+
 </p>
 </div>
 <div >
 <p > 
   
 <a href="#" target="_blank"> 
-     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+     <img alt="Dart" src="https://img.shields.io/badge/Dart-563D7C?style=for-the-badge&logo=dart&logoColor=white">
    </a> &emsp;
-  <a href="#" target="_blank"> 
-    <img alt="Photoshop" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15"/>
-  </a> &emsp;
+ <a href="#">
+    <img alt="Python" src="https://img.shields.io/badge/Python-61DBFB?style=for-the-badge&logo=Python&logoColor=white"/>
+  </a> &emsp; 
   <a href="#" target="_blank"> 
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30px"/>
   </a> &emsp;
