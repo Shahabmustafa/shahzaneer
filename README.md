@@ -1,13 +1,13 @@
 
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b>Shahzaneer Ahmed</b></h1>
  <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=GDSC%20Content%20Lead;Flutter%20Isb%20Core%20Team%20Member%20;%20CS%20Sophomore;Self-taught%20Programmer;&font=Fira%20Code&center=true&width=440&height=45&color=1572B6&vCenter=true&size=22"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Core%20Team%20Member%20at%20GDSC%20CUI;Flutter%20Isb%20Core%20Team%20Member%20;%20CS%20Undergrad;Self-taught%20Programmer;&font=Fira%20Code&center=true&width=440&height=45&color=1572B6&vCenter=true&size=22"></a>
 </p>
  
  ## 🙋‍♂️ About Me
 
-- 🎓 I'm currently Studying **BS(CS)** at <b>Comsats University Islamabad.</b>
-- 🌱 I’m currently learning **Java, C++, Python, Flutter, HTML, CSS, JS.**
+- 🎓 I'm **CS** sophomore at <b>COMSATS University Islamabad.</b>
+- 🌱 I'm currently learning <b>Data Structures,Machine Learning,Flutter,Dart and UI/UX design.</b>
 - 👯 I’m looking to collaborate with any **Open-Source Projects.**
 - 📫 How to reach me **shahism01@gmail.com**.
 - ⚡ **Fun fact:** I love coding and I'm a quick learner.
