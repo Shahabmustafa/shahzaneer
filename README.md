@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/shahism/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://wa.me/+92 3064650353">
+<a href="https://wa.me/+923064650353">
     <img src="https://img.shields.io/badge/Whatsapp-27e650c4?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="https://twitter.com/shahism__">
