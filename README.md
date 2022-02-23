@@ -6,11 +6,11 @@
  
  ## 🙋‍♂️ About Me
 
-- 🎓 I'm **CS** sophomore at <a href="https://comsats.edu.pk/" >COMSATS University Islamabad.</a>
+- 🎓 I'm **CS** sophomore at <a href="https://comsats.edu.pk/" >COMSATS Institute of Information Technology Islamabad.</a>
 - 🌱 I'm currently learning <b>Data Structures,Machine Learning,Flutter,Dart and UI/UX design.</b>
 - 👯 I’m looking to collaborate with any **Open-Source Projects.**
 - 📫 How to reach me **shahism01@gmail.com**.
-- ⚡ **Fun fact:** I love journalism and like to discuss about Cricket.
+- ⚡ **Fun fact:** I love **Journalism** and like to discuss about **Cricket**.
  
 
 <!--Social Media Links!-->
