@@ -6,11 +6,11 @@
  
  ## 🙋‍♂️ About Me
 
-- 🎓 I'm **CS** sophomore at <a src="https://comsats.edu.pk/" >COMSATS University Islamabad.</a>
+- 🎓 I'm **CS** sophomore at <a href="https://comsats.edu.pk/" >COMSATS University Islamabad.</a>
 - 🌱 I'm currently learning <b>Data Structures,Machine Learning,Flutter,Dart and UI/UX design.</b>
 - 👯 I’m looking to collaborate with any **Open-Source Projects.**
 - 📫 How to reach me **shahism01@gmail.com**.
-- ⚡ **Fun fact:** I love coding and I'm a quick learner.
+- ⚡ **Fun fact:** I love journalism and like to discuss about Cricket.
  
  ## Connect with me:
 <p align="left">
@@ -59,10 +59,10 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30px"/>
   </a> &emsp;
  <a href="#" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=React&logoColor=white"/>
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-61DBFB?style=for-the-badge&logo=Firebase&logoColor=white"/>
   </a> &emsp;
  <a href="#" target="_blank"> 
-    <img alt="Web Dev" src="https://img.shields.io/badge/Web-Dev-68a063?style=for-the-badge&logo=Web-Dev&logoColor=white" />
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-68a063?style=for-the-badge&logo=Figma&logoColor=white" />
   </a> &emsp;
 </p>
 </div>
