@@ -77,6 +77,9 @@
  <a href="#" target="_blank"> 
     <img alt="Figma" src="https://img.shields.io/badge/Figma-68a063?style=for-the-badge&logo=Figma&logoColor=white" />
   </a> &emsp;
+ <a href="#">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-61DBFB?style=for-the-badge&logo=Flutter&logoColor=white"/>
+  </a> &emsp;
 </p>
 </div>
 
