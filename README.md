@@ -6,7 +6,7 @@
  
  ## 🙋‍♂️ About Me
 
-- 🎓 I'm **CS** sophomore at <b>COMSATS University Islamabad.</b>
+- 🎓 I'm **CS** sophomore at <a src="https://comsats.edu.pk/" >COMSATS University Islamabad.</a>
 - 🌱 I'm currently learning <b>Data Structures,Machine Learning,Flutter,Dart and UI/UX design.</b>
 - 👯 I’m looking to collaborate with any **Open-Source Projects.**
 - 📫 How to reach me **shahism01@gmail.com**.
