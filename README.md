@@ -81,7 +81,7 @@
 
 
 <details open>
- <summary> 😇 <h2> My Github Stats </h2> </summary>
+ <summary> 😇 <b> My Github Stats </b> </summary>
 <br>
 <a href="https://github.com/shahism"><img alt="Shahzaneer Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahism&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/shahism"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahism&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
