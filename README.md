@@ -57,7 +57,7 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a> &emsp;
  <a href="#">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-61DBFB?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-61DBFB?style=for-the-badge&logo=TensorFlow&logoColor=orange"/>
   </a> &emsp;
 
 </p>
