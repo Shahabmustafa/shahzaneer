@@ -39,6 +39,11 @@
     <img src="https://img.shields.io/badge/dribbble-%230077B5.svg?&style=for-the-badge&logo=dribbble&logoColor=white" />
 </a>
 
+<a href="https://kaggle.com/shahism/">
+    <img src="https://img.shields.io/badge/kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=blue" />
+</a>
+
+
 </div>  <br> <br>
 
 #
