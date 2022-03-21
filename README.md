@@ -124,7 +124,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=shahzaneer">
 </a>
-<a href="https://github.com/aliaftabsheikh?tab=followers"><img src="https://img.shields.io/github/followers/shahzaneer?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/shahzaneer?tab=followers"><img src="https://img.shields.io/github/followers/shahzaneer?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
  <br/>
