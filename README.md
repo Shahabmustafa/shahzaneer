@@ -42,6 +42,9 @@
 <a href="https://kaggle.com/shahism/">
     <img src="https://img.shields.io/badge/kaggle-FFFFFF?style=for-the-badge&logo=kaggle&logoColor=blue" />
 </a>
+<a href="https://leetcode.com/shahism/">
+    <img src="https://img.shields.io/badge/leetcode-FFFF00?style=for-the-badge&logo=leetcode&logoColor=orange" />
+</a>
 
 
 </div>  <br> <br>
