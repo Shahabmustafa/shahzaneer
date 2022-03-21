@@ -33,9 +33,6 @@
 <a href="https://www.facebook.com/shahzaneerahmed">
     <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://dribbble.com/shahism">
-    <img src="https://img.shields.io/badge/dribbble-%230077B5.svg?&style=for-the-badge&logo=dribbble&logoColor=white" />
-</a>
 
 <a href="https://kaggle.com/shahism/">
     <img src="https://img.shields.io/badge/kaggle-FFFFFF?style=for-the-badge&logo=kaggle&logoColor=blue" />
@@ -48,6 +45,9 @@
 </a>
 <a href="https://twitter.com/shahism__">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://dribbble.com/shahism">
+    <img src="https://img.shields.io/badge/dribbble-%230077B5.svg?&style=for-the-badge&logo=dribbble&logoColor=white" />
 </a>
 
 
