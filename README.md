@@ -40,7 +40,7 @@
 </a>
 
 <a href="https://kaggle.com/shahism/">
-    <img src="https://img.shields.io/badge/kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=blue" />
+    <img src="https://img.shields.io/badge/kaggle-0000444?style=for-the-badge&logo=kaggle&logoColor=blue" />
 </a>
 
 
