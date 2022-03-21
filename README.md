@@ -107,8 +107,8 @@
 <details open>
  <summary> 😇 <b> My Github Stats </b> </summary>
 <br>
-<a href="https://github.com/shahism"><img alt="Shahzaneer Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahism&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/shahism"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahism&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/shahism"><img alt="Shahzaneer Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahzaneer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/shahzaneer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaneer&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 </details>
 
@@ -117,14 +117,14 @@
 #
 ## 📈 Contribution Graph
 
-[![Shahzaneer Ahmed's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahism&theme=xcode)](https://github.com/shahism)
+[![Shahzaneer Ahmed's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahzaneer&theme=xcode)](https://github.com/shahzaneer)
 
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=shahism">
+    <img src="https://komarev.com/ghpvc/?username=shahzaneer">
 </a>
-<a href="https://github.com/aliaftabsheikh?tab=followers"><img src="https://img.shields.io/github/followers/shahism?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/aliaftabsheikh?tab=followers"><img src="https://img.shields.io/github/followers/shahzaneer?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
  <br/>
