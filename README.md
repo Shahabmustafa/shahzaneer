@@ -17,36 +17,36 @@
 <!--Social Media Links!-->
  ## Connect with me:
 
-<a href="https://www.instagram.com/shahism._/">
+<a href="https://www.instagram.com/shahzaneer/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/shahism/">
+<a href="https://www.linkedin.com/in/shahzaneer/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://wa.me/+923064650353">
+<a href="https://wa.me/+923164606490">
     <img src="https://img.shields.io/badge/Whatsapp-27e650c4?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <a href="https://stackoverflow.com/users/14871627/shahzaneer-ahmed">
     <img src="https://img.shields.io/badge/Stack_Overfolow-000000?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/shahzaneerahmed">
+<a href="https://www.facebook.com/shahzaneerdev">
     <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://kaggle.com/shahism/">
+<a href="https://kaggle.com/shahzaneer/">
     <img src="https://img.shields.io/badge/kaggle-FFFFFF?style=for-the-badge&logo=kaggle&logoColor=blue" />
 </a>
-<a href="https://leetcode.com/shahism/">
+<a href="https://leetcode.com/shahzaneer/">
     <img src="https://img.shields.io/badge/leetcode-FFFF00?style=for-the-badge&logo=leetcode&logoColor=orange" />
 </a>
-<a href="https://medium.com/@shahism">
+<a href="https://medium.com/@shahzaneer">
     <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://twitter.com/shahism__">
+<a href="https://twitter.com/shahzaneerdev">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://dribbble.com/shahism">
+<a href="https://dribbble.com/shahzaneer">
     <img src="https://img.shields.io/badge/dribbble-%230077B5.svg?&style=for-the-badge&logo=dribbble&logoColor=white" />
 </a>
 
