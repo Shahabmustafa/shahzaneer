@@ -10,7 +10,7 @@
 - 👯 I'm Publication Manager at <a href="https://www.linkedin.com/company/35938057/" >Flutter Islamabad </a> and Core Team Member at <a href="https://gdsc.community.dev/comsats-university-islamabad-campus/" >GDSC-CUI. </a>
 - 🌱 I'm currently learning <b>Data Structures, Machine Learning, Flutter, Dart and UI/UX design.</b>
 - 🗣️ I’m looking to collaborate with **Open-Source Projects.**  
-- 📫 Reach out to me  @**shahism01@gmail.com**.
+- 📫 Reach out to me  @**shahzaneer.dev@gmail.com**.
 - ⚡ **Fun fact:** I love **Journalism** and like to play and discuss **Cricket**.
  
 
