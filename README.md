@@ -1,4 +1,4 @@
- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b>Shahzaneer Ahmed</b></h1>
+ <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">, I'm <b>Shahzaneer Ahmed</b></h1>
  <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Core%20Team%20Member%20GDSC%20CUI;Flutter%20ISB%20Publication%20Manager%20;%20CS%20Undergrad;Self-Taught%20Programmer;&font=Fira%20Code&center=true&width=440&height=45&color=1572B6&vCenter=true&size=22"></a>
 </p>
