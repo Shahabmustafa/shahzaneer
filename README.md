@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
+ <h1>🖖👋</h1>
  <h1 align="center">Hi, I'm <b>Shahzaneer Ahmed</b></h1>
  <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Core%20Team%20Member%20GDSC%20CUI;Flutter%20ISB%20Publication%20Manager%20;%20CS%20Undergrad;Self-Taught%20Programmer;&font=Fira%20Code&center=true&width=440&height=45&color=1572B6&vCenter=true&size=22"></a>
@@ -8,7 +8,7 @@
 
 - 🎓 I'm **CS** _Sophomore_ at <a href="https://comsats.edu.pk/" >COMSATS Institute of Information Technology Islamabad.</a>
 - 👯 I'm Publication Manager at <a href="https://www.linkedin.com/company/35938057/" >Flutter Islamabad </a> and Core Team Member at <a href="https://gdsc.community.dev/comsats-university-islamabad-campus/" >GDSC-CUI. </a>
-- 🌱 I'm currently learning <b>Data Structures, Data Science, Flutter, Dart and Node.js.</b>
+- 🌱 I'm currently learning <b>Flutter, Node.js , flask and Data Science</b>
 - 🗣️ I’m looking to collaborate with **Open-Source Projects.**
 - 📫 Reach out to me @**shahzaneer.dev@gmail.com**.
 - ⚡ **Fun fact:** I love **Journalism** and like to play and discuss **Cricket**.
