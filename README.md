@@ -1,7 +1,9 @@
  <h1>🖖</h1>
  <h1 align="center">Hi, I'm <b>Shahzaneer Ahmed</b></h1>
  <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=broadway&size=24&duration=4000&color=AEF715&center=true&vCenter=true&width=403&height=60&lines=CS+Undergrad;Data+Enthusiast;Core+Team+Member+GDSC+CUI;Publication+Manager+Flutter+ISB)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=broadway&size=24&duration=4000&color=AEF715&center=true&vCenter=true&width=403&height=60&lines=CS+Undergrad;Data+Enthusiast;Core+Team+Member+GDSC+CUI;Publication+Manager+Flutter+ISB)](https://git.io/typing-svg)
+
+</p>
  ## 🙋‍♂️ About Me
 
 - 🎓 I'm **CS** _Sophomore_ at <a href="https://comsats.edu.pk/" >COMSATS Institute of Information Technology Islamabad.</a>
