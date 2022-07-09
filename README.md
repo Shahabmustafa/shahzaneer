@@ -3,8 +3,7 @@
  <br>
  <br>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=CS+Undergrad;Publication-Manager+Flutter-Islamabad;Core-Team-GDSC-CUI;Flutter+Developer;Data+Enthusiast)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4DF70C&center=true&vCenter=true&lines=CS+Undergrad;Data+Enthusiast;Core+Team+Member+GDSC-CUI;Publication+Manager+Flutter+ISB)](https://git.io/typing-svg)
 
  ## 🙋‍♂️ About Me
 
