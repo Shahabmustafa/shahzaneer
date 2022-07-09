@@ -2,9 +2,8 @@
  <h1 align="center">Hi, I'm <b>Shahzaneer Ahmed</b></h1>
  <br>
  <br>
- <span align="center">
+
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=CS+Undergrad;Publication-Manager+Flutter-Islamabad;Core-Team-GDSC-CUI;Flutter+Developer;Data+Enthusiast)](https://git.io/typing-svg)
-</span>
 
 
  ## 🙋‍♂️ About Me
