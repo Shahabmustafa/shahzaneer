@@ -1,7 +1,7 @@
  <h1>🖖👋</h1>
  <h1 align="center">Hi, I'm <b>Shahzaneer Ahmed</b></h1>
  <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Core%20Team%20Member%20GDSC%20CUI;Flutter%20ISB%20Publication%20Manager%20;%20CS%20Undergrad;Data%20 Enthusiast;&font=Fira%20Code&center=true&width=440&height=45&color=1572B6&vCenter=true&size=22"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Core%20Team%20Member%20GDSC%20CUI;Flutter%20ISB%20Publication%20Manager%20;%20CS%20Undergrad;%20Data%20 Enthusiast;&font=Fira%20Code&center=true&width=440&height=45&color=1572B6&vCenter=true&size=22"></a>
 </p>
 
  ## 🙋‍♂️ About Me
