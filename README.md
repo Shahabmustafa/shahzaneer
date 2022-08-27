@@ -8,11 +8,12 @@
  ## 🙋‍♂️ About Me
 
 - 🎓 I'm **CS** _Sophomore_ at <a href="https://comsats.edu.pk/" >COMSATS Institute of Information Technology Islamabad.</a>
-- 👯 I'm Publication Manager at <a href="https://www.linkedin.com/company/35938057/" >Flutter Islamabad </a> and Core Team Member at <a href="https://gdsc.community.dev/comsats-university-islamabad-campus/" >GDSC-CUI. </a>
-- 🌱 I'm currently learning <b>Flutter, Node.js , flask and Data Science</b>
+- 👯 I'm Publication Manager at <a href="https://www.linkedin.com/company/35938057/" >Flutter Islamabad </a> and Community Lead at CS Lodges.
+- 🌱 I'm currently learning <b>Flutter, Node.js, and Data Science</b>
 - 🗣️ I’m looking to collaborate with **Open-Source Projects.**
 - 📫 Reach out to me @**shahzaneer.dev@gmail.com**.
-- ⚡ **Fun fact:** I love **Journalism** and like to play and discuss **Cricket**.
+- ⚡ Goal for 2022-23 - To Become a *Fullstack Developer* and *Junior Data Scientist.*
+- 😎 **Fun fact:** I love **Journalism** and like to play and discuss **Cricket**.
 
 <!--Social Media Links!-->
 
@@ -46,9 +47,6 @@
 </a>
 <a href="https://twitter.com/shahzaneerdev">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://dribbble.com/shahzaneer">
-    <img src="https://img.shields.io/badge/dribbble-%230077B5.svg?&style=for-the-badge&logo=dribbble&logoColor=white" />
 </a>
 
 </div>  <br> <br>
