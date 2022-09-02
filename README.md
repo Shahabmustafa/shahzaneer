@@ -3,12 +3,12 @@
  <br>
  <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFF&center=true&vCenter=true&lines=CS+Undergrad;Data+Enthusiast;Community+Lead+CS+Lodges;Publication+Manager+Flutter+ISB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFF&center=true&vCenter=true&lines=CS+Undergrad;Data+Enthusiast;Publication+Manager+Flutter+ISB)](https://git.io/typing-svg)
 
  ## 🙋‍♂️ About Me
 
 - 🎓 I'm **CS** _Sophomore_ at <a href="https://comsats.edu.pk/" >COMSATS Institute of Information Technology Islamabad.</a>
-- 👯 I'm Publication Manager at <a href="https://www.linkedin.com/company/35938057/" >Flutter Islamabad </a> and Community Lead at CS Lodges.
+- 👯 I'm Publication Manager at <a href="https://www.linkedin.com/company/35938057/" >Flutter Islamabad </a>
 - 🌱 I'm currently learning <b>Flutter,Firebase,Node.js, and Data Science</b>
 - 🗣️ I’m looking to collaborate with **Open-Source Projects.**
 - 📫 Reach out to me @**shahzaneer.dev@gmail.com**.
