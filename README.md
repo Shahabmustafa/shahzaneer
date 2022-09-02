@@ -118,6 +118,12 @@
 </p>
 </p>
 
+## 🐛Github Magic Game
+<p align="center">
+  <img src="https://github.com/shazaneer/shahzaneer/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<br>
+
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
