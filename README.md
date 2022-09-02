@@ -29,9 +29,6 @@
     <img src="https://img.shields.io/badge/Whatsapp-27e650c4?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-<a href="https://stackoverflow.com/users/14871627/shahzaneer-ahmed">
-    <img src="https://img.shields.io/badge/Stack_Overfolow-000000?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
 <a href="https://www.facebook.com/shahzaneerdev">
     <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
