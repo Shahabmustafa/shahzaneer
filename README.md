@@ -39,9 +39,6 @@
 <a href="https://kaggle.com/shahzaneer/">
     <img src="https://img.shields.io/badge/kaggle-FFFFFF?style=for-the-badge&logo=kaggle&logoColor=blue" />
 </a>
-<a href="https://leetcode.com/shahzaneer/">
-    <img src="https://img.shields.io/badge/leetcode-FFFF00?style=for-the-badge&logo=leetcode&logoColor=orange" />
-</a>
 <a href="https://medium.com/@shahzaneer">
     <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
