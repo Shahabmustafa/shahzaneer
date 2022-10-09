@@ -9,7 +9,7 @@
 
 - 🎓 I'm **CS** _Sophomore_ at <a href="https://comsats.edu.pk/" >COMSATS Institute of Information Technology Islamabad.</a>
 - 👯 I'm Publication Manager at <a href="https://www.linkedin.com/company/35938057/" >Flutter Islamabad </a>
-- 🌱 I'm currently learning <b>Flutter,Firebase,Node.js, and Data Science</b>
+- 🌱 I'm currently learning <b>Flutter,Firebase, DBMS and Data Analysis</b>
 - 🗣️ I’m looking to collaborate with **Open-Source Projects.**
 - 📫 Reach out to me @**shahzaneer.dev@gmail.com**.
 - ⚡ Goal for 2022-23 - To Become a *Fullstack Developer* and *Junior Data Scientist.*
